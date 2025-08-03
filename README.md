@@ -28,7 +28,6 @@ The **Cold Mail Generator** streamlines outreach by taking a job description URL
 - 📊 **Pandas** – For data handling and preprocessing
 - 🧑‍💻 **Streamlit** – For front-end web interface
 - 🧠 **ChromaDB** – For storing and retrieving past project data (vector database)
-- 🌐 **BeautifulSoup / Requests** – For web scraping job description content
 
 ---
 
@@ -45,7 +44,7 @@ Imagine you're a **B2B services company** looking to respond to job postings in 
 
 ## 📷 Screenshots
 
-<img src="assets/streamlit_ui.png" alt="Streamlit UI" width="500"/>
+<img src="assets/UI.png" alt="Streamlit UI" width="500"/>
 
 ---
 
